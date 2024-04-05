@@ -1,0 +1,11 @@
+
+
+
+
+2. https://codereview.stackexchange.com/questions/291409/alternative-control-flows-to-highlight-happy-path
+This is a good code review because its very detailed and gives lots of advice on how to proceed as well as gives solutions 
+to the errors they were having.
+
+3. https://codereview.stackexchange.com/questions/291394/best-practice-code-for-payment-integration
+This is a bad code review due to the fact that it didnt give many suggestions and was not helpful. Some suggestions to this code 
+review is to add exactly where they went wrong and how they can improve. 
