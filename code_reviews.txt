@@ -1,0 +1,7 @@
+Similarities between Microsoft and Yelp:
+1. Responsibilities are placed on reviewers to go over and ensure the success metrics of the code.
+2. Expectations of communication are highly emphasized, as code implementation is indeed a collaborative process.
+
+Differences between Microsoft and Yelp:
+1. Timings and sizing of reiterations is much smaller for Yelp.
+2. Emoji code was something that was utilized in Microsoft's
