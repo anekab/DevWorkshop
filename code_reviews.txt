@@ -1,5 +1,10 @@
+1. Similarities between Microsoft and Yelp:
+    1. Responsibilities are placed on reviewers to go over and ensure the success metrics of the code.
+    2. Expectations of communication are highly emphasized, as code implementation is indeed a collaborative process.
 
-
+    Differences between Microsoft and Yelp:
+    1. Timings and sizing of reiterations is much smaller for Yelp.
+    2. Emoji code was something that was utilized in Microsoft's
 
 
 2. https://codereview.stackexchange.com/questions/291409/alternative-control-flows-to-highlight-happy-path
@@ -7,5 +12,4 @@ This is a good code review because its very detailed and gives lots of advice on
 to the errors they were having.
 
 3. https://codereview.stackexchange.com/questions/291394/best-practice-code-for-payment-integration
-This is a bad code review due to the fact that it didnt give many suggestions and was not helpful. Some suggestions to this code 
-review is to add exactly where they went wrong and how they can improve. 
+This is a bad code review due to the fact that it didnt give many suggestions and was not helpful. Some suggestions to this code 1. 
